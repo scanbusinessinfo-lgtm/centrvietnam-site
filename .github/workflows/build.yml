@@ -6,7 +6,7 @@ on:
     - cron: '*/15 * * * *'
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
@@ -31,6 +31,12 @@ jobs:
           python3 -I src/gen.py src/template centr_site_tours.json centr_site_banners.json _site
           echo "centrvietnam.ru" > _site/CNAME
           touch _site/.nojekyll
+      - name: Готовая сборка в ветку dist (её забирает сервер Reg.ru)
+        run: |
+          cd _site
+          git init -q -b dist && git config user.name "site-build" && git config user.email "build@centrvietnam.ru"
+          git add -A && git commit -qm "build $(date -u +%FT%TZ)"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" dist
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
