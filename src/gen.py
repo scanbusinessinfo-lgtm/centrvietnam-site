@@ -348,4 +348,42 @@ open(os.path.join(OUT, 'llms-full.txt'), 'w').write(llms + '\n\n' + '\n\n---\n\n
 # старые md без тура убираем
 for f in os.listdir(OUT):
     if f.endswith('.md') and f != 'index.md' and f[:-3] not in BY and f[:-3] != 'ekskursii-nyachang-ceny': os.remove(os.path.join(OUT, f))
+
+# ---------- Telegram мини-приложение (/app/) для @vietnam_official_bot ----------
+TILDA = re.compile(r'^https://static\.tildacdn\.com/(tild[0-9a-f-]+)/(.+)$')
+OWN = re.compile(r'-(480|800|1280)\.webp$')
+def img_url(src, w):
+    if not src: return ''
+    m = TILDA.match(src)
+    if m: return f'https://thb.tildacdn.com/{m.group(1)}/-/resize/{min(w, 1600)}x/{m.group(2)}'
+    if OWN.search(src): return OWN.sub(f'-{next((x for x in (480, 800, 1280) if x >= w), 1280)}.webp', src)
+    return src
+MA_TPL = os.path.join(os.path.dirname(os.path.abspath(SRC)), 'miniapp.html')
+if os.path.exists(MA_TPL):
+    EMO = {'sea': '🏝️', 'nature': '⛰️', 'active': '🏍️', 'city': '🏛️', 'multi': '🧳', 'kids': '🎈'}
+    def ma_fallback(t):
+        out = [f'<p>{E(t.get("short"))}</p>'] if t.get('short') else []
+        pr = t.get('program') or []
+        if pr: out.append('<p><b class="dh">Программа:</b><br>' + '<br>'.join((f'<b>{E(x.get("time"))}</b> — ' if x.get('time') else '• ') + E(x.get('title')) + (f'. {E(x.get("text"))}' if x.get('text') else '') for x in pr) + '</p>')
+        inc = t.get('included') or []
+        if inc: out.append('<p><b class="dh">Включено:</b><br>' + '<br>'.join('✔️ ' + E(x) for x in inc) + '</p>')
+        return ''.join(out)
+    ma = []
+    for t in tours:
+        g = [x for x in (t.get('gallery') or []) if isinstance(x, dict) and x.get('src')]
+        if not g and t.get('image'): g = [{'src': t['image'], 'alt': t['title']}]
+        kids = [k for k in FAMILY.get(t['slug'], []) if k in BY]
+        cats = t.get('categories') or []
+        ma.append({'s': t['slug'], 't': t['title'], 'sh': t.get('short') or '', 'c': cats, 'b': t.get('badge') or '',
+                   'p': t.get('price_label') or 'Цена по запросу', 'pf': 1 if num(t) > 0 else 0, 'd': t.get('duration') or '', 'tm': t.get('time') or '',
+                   'img': img_url(img(t), 800), 'g': [{'u': img_url(x['src'], 1280), 'a': x.get('alt') or t['title']} for x in g],
+                   'h': desc_html(t['description']) if t.get('description') else ma_fallback(t), 'm': desc_html(t['memo']) if t.get('memo') else '',
+                   'k': kids, 'hub': 1 if t['slug'] == 'dalat' else 0, 'e': EMO.get(cats[0] if cats else '', '🌴')})
+    ma_data = {'tours': ma, 'cats': [{'id': c, 'name': n} for c, (n, _) in CATS.items() if any(c in (t.get('categories') or []) for t in tours)],
+               'api': 'https://roqmejclibyyjlnxshzu.supabase.co/functions/v1/centr-site-miniapp',
+               'sbUrl': 'https://roqmejclibyyjlnxshzu.supabase.co',
+               'sbKey': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJvcW1lamNsaWJ5eWpsbnhzaHp1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYxMzQ5OTcsImV4cCI6MjEwMTcxMDk5N30.Y4FhKvSa8b515buVumv3UTzX6mLti1aEmbrL38Jnvuc'}
+    tpl = open(MA_TPL, encoding='utf-8').read()
+    js = json.dumps(ma_data, ensure_ascii=False).replace('<', '\\u003c')
+    write('app/index.html', tpl.replace('__DATA__', js).replace('__TG__', E(TG)).replace('__WA__', E(WA)))
 print('tours', N, 'ok')
