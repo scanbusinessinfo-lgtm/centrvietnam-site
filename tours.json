@@ -1,0 +1,606 @@
+[
+ {
+  "slug": "dalat",
+  "url": "https://centrvietnam.ru/dalat",
+  "title": "Экскурсии в Далат из Нячанга: какой тур выбрать",
+  "price": "от $35",
+  "price_from_usd": 35.0,
+  "duration": "1 или 2 дня",
+  "time": "выезд с 4:40, 5:00 или 7:00",
+  "categories": [
+   "nature",
+   "multi"
+  ],
+  "summary": "Пять программ в Далат: All In, The Best, Супер Далат, Далат NEW с поздним выездом и тур на 2 дня. Сравнение маршрутов и цены — выберите свой.",
+  "image": "https://static.tildacdn.com/tild6337-3632-4431-b032-336339346366/dalat-excursion-nhat.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "dalat-2-dnya",
+  "url": "https://centrvietnam.ru/dalat-2-dnya",
+  "title": "Далат на 2 дня с отелем",
+  "price": "$99",
+  "price_from_usd": 99.0,
+  "duration": "2 дня / 1 ночь",
+  "time": "выезд с 05:00",
+  "categories": [
+   "multi",
+   "nature"
+  ],
+  "summary": "Два дня в Далате с ночёвкой в отеле 3★ в центре: водопады Датанла, Понгур и Слон, Crazy House, Линь Фуок, статуя Гуань Инь 72 м, Долина Любви и стеклянный мост.",
+  "image": "https://static.tildacdn.com/tild3136-3262-4430-a232-343063623039/dalat-excursion-from.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "dalat-all-in",
+  "url": "https://centrvietnam.ru/dalat-all-in",
+  "title": "Далат All In — максимум за один день",
+  "price": "$58",
+  "price_from_usd": 58.0,
+  "duration": "1 день",
+  "time": "04:40–19:00",
+  "categories": [
+   "nature",
+   "city"
+  ],
+  "summary": "13 локаций за день: перевал, водопад Датанла, Долина Любви, стеклянный мост 325 м, Линь Фуок, Crazy House, кофейные плантации, Глиняная деревня, зоопарк и ферма слонов.",
+  "image": "https://static.tildacdn.com/tild3030-3235-4864-b366-616661323239/dalat-excursion-from.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "dalat-super",
+  "url": "https://centrvietnam.ru/dalat-super",
+  "title": "Супер Далат — главное за один день",
+  "price": "$45",
+  "price_from_usd": 45.0,
+  "duration": "1 день",
+  "time": "05:00–19:00",
+  "categories": [
+   "nature",
+   "city"
+  ],
+  "summary": "Горный перевал, Озеро Любви и французские кварталы, кофейные плантации, Глиняная деревня, Crazy House, Линь Фуок, деревня Хоббитов и ферма слонов — в комфортном темпе.",
+  "image": "https://static.tildacdn.com/tild6463-3165-4434-b633-383132626361/dalat-excursion-from.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "dalat-the-best",
+  "url": "https://centrvietnam.ru/dalat-the-best",
+  "title": "Далат The Best — самые эффектные места",
+  "price": "$49",
+  "price_from_usd": 49.0,
+  "duration": "1 день",
+  "time": "05:00–19:00",
+  "categories": [
+   "nature",
+   "city"
+  ],
+  "summary": "Перевал 1500 м, стеклянный мост, Долина Любви, пагоды Золотого Будды и Линь Фуок, ферма кофе Лювак, зоопарк, Crazy House и дегустация чая и какао.",
+  "image": "https://static.tildacdn.com/tild3762-3433-4935-b831-353231623033/dalat-excursion-from.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "dalat-new",
+  "url": "https://centrvietnam.ru/dalat-new",
+  "title": "Далат NEW — поздний выезд",
+  "price": "$35",
+  "price_from_usd": 35.0,
+  "duration": "1 день",
+  "time": "07:00–19:00",
+  "categories": [
+   "nature",
+   "kids"
+  ],
+  "summary": "Однодневный Далат с выездом в 07:00: Линь Фуок, площадь Лам Вьен, Crazy House, ферма кофе Лювак, контактный зоопарк и водопад Датанла.",
+  "image": "https://static.tildacdn.com/tild3639-3563-4735-a366-616239623334/dalat-new-excursion-.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "north-islands",
+  "url": "https://centrvietnam.ru/north-islands",
+  "title": "Северные острова из Нячанга",
+  "price": "$35",
+  "price_from_usd": 35.0,
+  "duration": "1 день",
+  "time": "07:00–16:00",
+  "categories": [
+   "sea",
+   "kids"
+  ],
+  "summary": "Морская прогулка по заливу Ня-Фу: Остров Орхидей с шоу птиц и Остров Обезьян с цирком. Купание и обед — лучший семейный морской день.",
+  "image": "https://static.tildacdn.com/tild3964-3566-4337-b433-393165663962/north-islands-nhatra.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "south-islands",
+  "url": "https://centrvietnam.ru/south-islands",
+  "title": "Южные острова — морское приключение",
+  "price": "$40",
+  "price_from_usd": 40.0,
+  "duration": "1 день",
+  "time": "08:00–15:00",
+  "categories": [
+   "sea",
+   "active"
+  ],
+  "summary": "Снорклинг у коралловых рифов, обед из свежих морепродуктов в рыбацкой деревне и отдых на белом пляже Bãi Sỏi.",
+  "image": "https://static.tildacdn.com/tild3338-3632-4838-b437-613431346436/south-islands-nha-tr.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "diving",
+  "url": "https://centrvietnam.ru/diving",
+  "title": "Дайвинг у острова Мун",
+  "price": "$95",
+  "price_from_usd": 95.0,
+  "duration": "полдня",
+  "time": "07:00 – ~14:00",
+  "categories": [
+   "sea",
+   "active"
+  ],
+  "summary": "Два погружения по 40–45 минут у острова Мун: коралловые рифы, каменные свалы и пещеры на глубине 6–25 м. Снаряжение, обед на дайв-боте и трансфер включены.",
+  "image": null,
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "snorkeling",
+  "url": "https://centrvietnam.ru/snorkeling",
+  "title": "Снорклинг у острова Мун",
+  "price": "$45",
+  "price_from_usd": 45.0,
+  "duration": "полдня",
+  "time": "07:00 – ~14:00",
+  "categories": [
+   "sea",
+   "kids"
+  ],
+  "summary": "Две остановки у коралловых рифов морского заповедника острова Мун, маска, трубка и ласты, инструктор, завтрак и обед на лодке.",
+  "image": null,
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "phanrang",
+  "url": "https://centrvietnam.ru/phanrang",
+  "title": "Фанранг из Нячанга",
+  "price": "$45",
+  "price_from_usd": 45.0,
+  "duration": "1 день",
+  "time": "07:00–18:00",
+  "categories": [
+   "sea",
+   "kids",
+   "nature"
+  ],
+  "summary": "Бухта Винь Хи, катер с прозрачным дном и снорклинг, ракушечный храм, лабиринт дракона, контактный зоопарк и виноградники.",
+  "image": "https://static.tildacdn.com/tild3966-6563-4363-b830-333838333837/phanrang-vinh-hy-bay.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "phuyen",
+  "url": "https://centrvietnam.ru/phuyen",
+  "title": "Фуйен из Нячанга",
+  "price": "$40",
+  "price_from_usd": 40.0,
+  "duration": "1 день",
+  "time": "06:00–17:00",
+  "categories": [
+   "nature",
+   "sea"
+  ],
+  "summary": "Самая восточная точка Вьетнама, первый электрический маяк, пляж Bai Mon, базальтовые сады вулканического происхождения и собор 1892 года.",
+  "image": "https://static.tildacdn.com/tild6632-6366-4538-b864-373934626262/phuyen-lighthouse-fi.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "yang-bay",
+  "url": "https://centrvietnam.ru/yang-bay",
+  "title": "Парк Янг Бэй из Нячанга",
+  "price": "$35",
+  "price_from_usd": 35.0,
+  "duration": "1 день",
+  "time": "07:00–15:00",
+  "categories": [
+   "nature",
+   "kids"
+  ],
+  "summary": "Экопарк в горах в 45 км от города: водопад, термальные источники 15–54 °C, крокодиловая ферма, поросячьи бега и шоу племени Раглай.",
+  "image": "https://static.tildacdn.com/tild6130-6631-4166-b438-613436653433/yang-bay-nha-trang-o.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "ba-ho-zoclet",
+  "url": "https://centrvietnam.ru/ba-ho-zoclet",
+  "title": "Водопад Ба Хо и пляж Зоклет",
+  "price": "$36",
+  "price_from_usd": 36.0,
+  "duration": "1 день",
+  "time": "07:00–16:00",
+  "categories": [
+   "nature",
+   "sea",
+   "active"
+  ],
+  "summary": "Трекинг по джунглям к трёхкаскадному водопаду, купание в каменных чашах, а затем несколько часов на белом пляже Зоклет.",
+  "image": "https://static.tildacdn.com/tild6562-3463-4563-b737-646230613738/ba-ho-zoclet-tour-nh.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "zoclet-aquapark",
+  "url": "https://centrvietnam.ru/zoclet-aquapark",
+  "title": "Пляж Зоклет и аквапарк",
+  "price": "$33 (дети $29)",
+  "price_from_usd": 33.0,
+  "duration": "1 день",
+  "time": "07:00–15:00",
+  "categories": [
+   "sea",
+   "kids"
+  ],
+  "summary": "Белоснежный пляж Зоклет с шезлонгами и зонтиками, обед и современный аквапарк с горками и бассейнами для детей и взрослых — всё включено.",
+  "image": "https://static.tildacdn.com/tild3036-3033-4664-a166-626265643134/ba-ho-waterfall-excu.jpg",
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "danang",
+  "url": "https://centrvietnam.ru/danang",
+  "title": "Дананг и Хойан на 2 дня из Нячанга",
+  "price": "$210",
+  "price_from_usd": 210.0,
+  "duration": "2 дня",
+  "time": "выезд 18:00",
+  "categories": [
+   "city",
+   "multi"
+  ],
+  "summary": "Ба На Хиллс и Золотой мост «Руки Бога», вечерний Хойан с фонариками, лодки по мангровым рощам и Мраморные горы — 2 дня на спальном автобусе из Нячанга.",
+  "image": "https://static.tildacdn.com/tild6230-3464-4565-b231-383132633136/danang-bana-hills-go.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "danang-1-den",
+  "url": "https://centrvietnam.ru/danang-1-den",
+  "title": "Дананг и Бана Хиллс за 1 день из Нячанга",
+  "price": "$150",
+  "price_from_usd": 150.0,
+  "duration": "1 день + 2 ночных переезда",
+  "time": "выезд 18:00",
+  "categories": [
+   "city"
+  ],
+  "summary": "Ночной переезд на премиум слип-басе, канатная дорога на Бана Хиллс, Золотой мост «Руки Бога», французская деревня и экскурсия по Данангу.",
+  "image": "https://static.tildacdn.com/tild6230-3464-4565-b231-383132633136/danang-bana-hills-go.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "saigon",
+  "url": "https://centrvietnam.ru/saigon",
+  "title": "Сайгон на 2 дня из Нячанга",
+  "price": "$199",
+  "price_from_usd": 199.0,
+  "duration": "2 дня",
+  "time": "выезд 21:00",
+  "categories": [
+   "city",
+   "multi"
+  ],
+  "summary": "Дельта Меконга и Ми Тхо, туннели Ку Чи, Музей войны и колониальный центр Сайгона — 2 дня с ночными переездами, завтраками и обедами.",
+  "image": "https://static.tildacdn.com/tild3030-3364-4365-b930-633436323532/saigon-2-days-tour-m.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "saigon-1-den",
+  "url": "https://centrvietnam.ru/saigon-1-den",
+  "title": "Сайгон за 1 день: Меконг и город",
+  "price": "$150",
+  "price_from_usd": 150.0,
+  "duration": "1 день + 2 ночных переезда",
+  "time": "ночные переезды",
+  "categories": [
+   "city"
+  ],
+  "summary": "Дельта Меконга и Ми Тхо, Музей войны, собор Нотр-Дам, Центральный почтамт и Оперный театр — один насыщенный день с ночными переездами.",
+  "image": "https://static.tildacdn.com/tild6133-6265-4636-a332-323732633332/saigon-excursion-ho-.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "hanoi-halong",
+  "url": "https://centrvietnam.ru/hanoi-halong",
+  "title": "Ханой и залив Халонг — 3 дня",
+  "price": "от $350",
+  "price_from_usd": 350.0,
+  "duration": "3 дня / 2 ночи",
+  "time": "перелёт",
+  "categories": [
+   "city",
+   "sea",
+   "multi"
+  ],
+  "summary": "Пешеходная экскурсия по Старому кварталу Ханоя и Train Street, круиз по бухтам Халонг и Лан Ха с ночёвкой на корабле, пещеры и плавучая деревня — 3 дня с перелётом из Нячанга.",
+  "image": "https://static.tildacdn.com/tild3338-6431-4365-b165-623935626430/hanoi-halong-3-days-.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "atv-zipline",
+  "url": "https://centrvietnam.ru/atv-zipline",
+  "title": "Комбо ATV + Zipline в Нячанге",
+  "price": "$80",
+  "price_from_usd": 80.0,
+  "duration": "полдня",
+  "time": "выезд в 7:00, 8:00, 9:30 или 11:30",
+  "categories": [
+   "active"
+  ],
+  "summary": "Две активности в одном туре: сафари на квадроциклах по джунглям и рисовым полям и Zipline — 13 платформ и час полёта над джунглями.",
+  "image": "https://static.tildacdn.com/tild3863-3262-4262-b761-636432313031/nha-trang-atv-ziplin.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "atv",
+  "url": "https://centrvietnam.ru/atv",
+  "title": "Квадроциклы ATV в Нячанге",
+  "price": "$55",
+  "price_from_usd": 55.0,
+  "duration": "полдня",
+  "time": "выезд в 7:00, 8:00, 9:30 или 11:30",
+  "categories": [
+   "active"
+  ],
+  "summary": "Сафари на квадроциклах по джунглям, рисовым полям и горным массивам — с трансфером из отеля, гидом на трассе и обедом «шведский стол».",
+  "image": "https://static.tildacdn.com/tild3530-3064-4263-a639-623338313733/atv-quad-bike-excurs.jpg",
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "surfing",
+  "url": "https://centrvietnam.ru/surfing",
+  "title": "Сёрфинг в Нячанге: урок в Tortuga Surf Camp",
+  "price": "1 600 000 ₫",
+  "price_from_usd": null,
+  "duration": "~4 часа",
+  "time": "по договорённости",
+  "categories": [
+   "sea",
+   "active"
+  ],
+  "summary": "Урок сёрфинга 2,5 часа на пляже Бай Зай: теория на суше и 2 часа в океане с инструктором, группы до 4 человек. Доска, экипировка, обед и трансфер включены.",
+  "image": null,
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "zipline",
+  "url": "https://centrvietnam.ru/zipline",
+  "title": "Zipline в Нячанге",
+  "price": "$50",
+  "price_from_usd": 50.0,
+  "duration": "полдня",
+  "time": "выезд в 7:00, 8:00, 9:30 или 11:30",
+  "categories": [
+   "active"
+  ],
+  "summary": "Полёт над джунглями: 13 платформ на разной высоте, час на маршруте, виды на водопады и горы — с трансфером из отеля и обедом «шведский стол».",
+  "image": "https://static.tildacdn.com/tild6464-3166-4337-b366-396334633963/atv-quad-bike-excurs.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "daklak",
+  "url": "https://centrvietnam.ru/daklak",
+  "title": "Даклак — кофейная столица Вьетнама",
+  "price": "$145",
+  "price_from_usd": 145.0,
+  "duration": "2 дня / 1 ночь",
+  "time": "выезд 6:00",
+  "categories": [
+   "nature",
+   "multi"
+  ],
+  "summary": "Два дня на плоскогорье Тэйнгуен: водопад Драй Нур, шоу племени мнонгов с гонгами, слоны, лодки по озеру Лак и Всемирный музей кофе.",
+  "image": "https://static.tildacdn.com/tild6463-3462-4833-a539-356466333830/daklak-excursion-fro.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "vinpearl-villas",
+  "url": "https://centrvietnam.ru/vinpearl-villas",
+  "title": "Вилла на острове Винпёрл — 2 дня",
+  "price": "от $110",
+  "price_from_usd": 110.0,
+  "duration": "2 дня / 1 ночь",
+  "time": "по договорённости",
+  "categories": [
+   "sea",
+   "kids",
+   "multi"
+  ],
+  "summary": "Ночь в отеле 5★ на острове Хон Че, билеты в VinWonders на 2 дня, аквапарк, колесо Sky Wheel и вечернее Tata Show.",
+  "image": "https://static.tildacdn.com/tild3463-6466-4230-b431-333837306262/vinpearl-villa-vinwo.jpg",
+  "updated": "2026-10-18"
+ },
+ {
+  "slug": "lost-paradise",
+  "url": "https://centrvietnam.ru/lost-paradise",
+  "title": "«Затерянный рай»",
+  "price": "$45",
+  "price_from_usd": 45.0,
+  "duration": "1 день",
+  "time": "07:30–18:00",
+  "categories": [
+   "sea",
+   "nature"
+  ],
+  "summary": "Панорамная кофейня, рыбацкая деревня с дегустацией устриц, буддийский храм, пляжный отдых и католический собор — спокойный авторский маршрут.",
+  "image": "https://static.tildacdn.com/tild3937-3663-4335-b464-613266656661/ekskursiya-zateryann.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "city-tour",
+  "url": "https://centrvietnam.ru/city-tour",
+  "title": "Обзорная экскурсия по Нячангу",
+  "price": "$30",
+  "price_from_usd": 30.0,
+  "duration": "полдня",
+  "time": "08:00 – ~13:00-14:00",
+  "categories": [
+   "city"
+  ],
+  "summary": "Пагода Чук Лам, пагода Лонг Шон с Белым Буддой, кафедральный собор, Чамские башни, Сад камней и Vega City — знакомство с Нячангом за полдня.",
+  "image": "https://static.tildacdn.com/tild3736-6331-4635-b166-616539383363/panorams-nyachang-vi.jpeg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "catamaran",
+  "url": "https://centrvietnam.ru/catamaran",
+  "title": "Групповой круиз на катамаране в Нячанге",
+  "price": "$75 (дети $55)",
+  "price_from_usd": 75.0,
+  "duration": "4,5 часа",
+  "time": "09:00–13:30 или 15:00–19:30 (вт, чт, сб)",
+  "categories": [
+   "sea",
+   "kids"
+  ],
+  "summary": "Премиум-катамаран в южной части залива: шампанское, рыбалка, снорклинг, каяк, SUP и тюбинг, обед или ужин с морепродуктами. Вт, чт, сб — днём или на закате.",
+  "image": null,
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "evening-cruise",
+  "url": "https://centrvietnam.ru/evening-cruise",
+  "title": "Вечерний круиз на яхте",
+  "price": "$90",
+  "price_from_usd": 90.0,
+  "duration": "вечер",
+  "time": "16:00–20:00",
+  "categories": [
+   "sea"
+  ],
+  "summary": "Закат над морем, живая музыка и изысканный ужин с морепродуктами на борту элегантной яхты — романтический вечер в заливе Нячанга.",
+  "image": "https://static.tildacdn.com/tild3530-6562-4738-b132-636265396363/zakat-v-more-nhatran.jpg",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "night-plankton",
+  "url": "https://centrvietnam.ru/night-plankton",
+  "title": "Ночной планктон и SUP-прогулка",
+  "price": "1 300 000 ₫",
+  "price_from_usd": null,
+  "duration": "~5–5,5 часов",
+  "time": "вечером, зависит от условий моря",
+  "categories": [
+   "sea",
+   "active"
+  ],
+  "summary": "Вечер на пляже Бай Зай: SUP-прогулка под звёздами, купание со светящимся планктоном и BBQ-ужин у мангала в Tortuga Surf Camp. Трансфер и снаряжение включены.",
+  "image": null,
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "jungle-fishing",
+  "url": "https://centrvietnam.ru/jungle-fishing",
+  "title": "Рыбалка в джунглях",
+  "price": "$40",
+  "price_from_usd": 40.0,
+  "duration": "1 день",
+  "time": "выезд в 7:00 или 8:00",
+  "categories": [
+   "nature",
+   "kids"
+  ],
+  "summary": "Озеро среди пальм, своя беседка, снасти и наживка, активный клёв и обед на природе — день тишины вдали от туристов.",
+  "image": "https://static.tildacdn.com/tild3034-6232-4230-b037-663866346636/rybalka-ulov-nhatran.JPG",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "sea-fishing",
+  "url": "https://centrvietnam.ru/sea-fishing",
+  "title": "Морская рыбалка в Нячанге",
+  "price": "$59",
+  "price_from_usd": 59.0,
+  "duration": "1 день",
+  "time": "08:00–15:00",
+  "categories": [
+   "sea",
+   "active"
+  ],
+  "summary": "Скоростной катер, 4 локации для рыбалки и купания в открытом море, снорклинг и обед со свежей рыбой на острове. Снасти, наживка и напитки включены.",
+  "image": null,
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "doi-dep",
+  "url": "https://centrvietnam.ru/doi-dep",
+  "title": "Райский остров Doi Dep",
+  "price": "$75 (дети $55)",
+  "price_from_usd": 75.0,
+  "duration": "1 день",
+  "time": "08:30–14:45",
+  "categories": [
+   "sea"
+  ],
+  "summary": "Индивидуальный спидбот, безлимитный бар, океанариум с шоу русалок, пляжи Paradise и Soi, обед в ресторане 5★ отеля с видом на море.",
+  "image": "https://static.tildacdn.com/tild3633-6164-4162-a265-613037663035/6c765d7b-281b-433c-9.webp",
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "doi-dep-vecher",
+  "url": "https://centrvietnam.ru/doi-dep-vecher",
+  "title": "Вечерний Doidep: ужин, шоу и вечеринка",
+  "price": "$75 (дети $55)",
+  "price_from_usd": 75.0,
+  "duration": "вечер",
+  "time": "16:40–22:30",
+  "categories": [
+   "sea"
+  ],
+  "summary": "Вечер на острове Doidep: пляж и бассейн, ужин, мини-гольф, шоу фонтанов и вечеринка с DJ. Безлимитный бар с 17:00 до 22:00, спидбот туда и обратно.",
+  "image": "https://static.tildacdn.com/tild3730-6430-4361-a433-646638316133/snorkling-i-plyazhi-.webp",
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "jeep-safari",
+  "url": "https://centrvietnam.ru/jeep-safari",
+  "title": "Джип-сафари по нетуристическому Нячангу",
+  "price": "$85 (дети $65)",
+  "price_from_usd": 85.0,
+  "duration": "1 день",
+  "time": "08:00–16:00",
+  "categories": [
+   "active",
+   "kids",
+   "nature"
+  ],
+  "summary": "Цитадель Зиен Кхань, рисовые и лотосовые поля, бункеры, деревня горных народов, хайкинг и водопад в джунглях — на джипах.",
+  "image": "https://roqmejclibyyjlnxshzu.supabase.co/storage/v1/object/public/centr-site-media/tours/jeep-safari/jeep-01-1280.webp",
+  "updated": "2026-10-29"
+ },
+ {
+  "slug": "muine",
+  "url": "https://centrvietnam.ru/muine",
+  "title": "Муйне на 2 дня / 1 ночь из Нячанга",
+  "price": "$110 (дети $80)",
+  "price_from_usd": 110.0,
+  "duration": "2 дня / 1 ночь",
+  "time": "Выезд в 07:30",
+  "categories": [
+   "multi",
+   "nature"
+  ],
+  "summary": "Белые и Красные дюны, Ручей Фей и рыбацкая деревушка Муйне — 2 дня с отелем, питанием и джип-туром.",
+  "image": null,
+  "updated": "2026-11-05"
+ },
+ {
+  "slug": "i-resort",
+  "url": "https://centrvietnam.ru/i-resort",
+  "title": "I-Resort: день релакса и восстановления",
+  "price": "$40 (дети $30)",
+  "price_from_usd": 40.0,
+  "duration": "1 день",
+  "time": "трансфер в 9:00",
+  "categories": [
+   "nature",
+   "kids"
+  ],
+  "summary": "Травяные и грязевые ванны, горячие источники, обед и свободное время в оздоровительном комплексе I-Resort — с трансфером от отеля.",
+  "image": null,
+  "updated": "2026-11-05"
+ }
+]
